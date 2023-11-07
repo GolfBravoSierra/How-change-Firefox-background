@@ -7,8 +7,6 @@ create a new folder named "chrome"
 
 then open chrome folder and create a another folder named "img"
 
-Now go and copy that file that you downloaded when the video started. and paste in chrome folder.
-
 paste your picture on "img" folder, and copy image name 
 
 open css file, edit image name and save
